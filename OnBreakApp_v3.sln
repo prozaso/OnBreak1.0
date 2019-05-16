@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnBreakApp_v3", "OnBreakApp_v3\OnBreakApp_v3.csproj", "{2C8C7134-E3F8-4046-B29A-18A9C0C4511C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnBreakLibrary", "OnBreakLibrary\OnBreakLibrary.csproj", "{0A258F01-0F8D-4ED5-9CBD-D09F550AAA45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C8C7134-E3F8-4046-B29A-18A9C0C4511C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8C7134-E3F8-4046-B29A-18A9C0C4511C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8C7134-E3F8-4046-B29A-18A9C0C4511C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8C7134-E3F8-4046-B29A-18A9C0C4511C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A258F01-0F8D-4ED5-9CBD-D09F550AAA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A258F01-0F8D-4ED5-9CBD-D09F550AAA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A258F01-0F8D-4ED5-9CBD-D09F550AAA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A258F01-0F8D-4ED5-9CBD-D09F550AAA45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C1D5447-F738-4553-91C0-B6B50BDB7A2D}
+	EndGlobalSection
+EndGlobal
